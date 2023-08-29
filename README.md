@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D16AQEs2-3BU41oww/profile-displaybackgroundimage-shrink_350_1400/0/1668869369022?e=1698883200&v=beta&t=smAOWTgCZ4qNgoW4xESeqyYzjVGoyklqPRLW5L8eSeY)
 <h1 align="center">Hi 👋, I'm Harsh Trivedi</h1>
 <h3 align="center">As a skilled MERN-Stack Developer from India, I possess a fervent interest in competitive programming and relish the opportunity to tackle complex challenges. My unwavering passion and self-assurance in my abilities compel me to strive for continuous growth and progress within this field.</h3>
-<img align="right" alt="Coding" width="300" src=“https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif”>
+<img align="right" alt="Coding" width="300" src=“https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 
 
