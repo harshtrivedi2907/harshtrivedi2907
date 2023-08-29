@@ -3,6 +3,8 @@
 <h3 align="center">As a skilled MERN-Stack Developer from India, I possess a fervent interest in competitive programming and relish the opportunity to tackle complex challenges. My unwavering passion and self-assurance in my abilities compel me to strive for continuous growth and progress within this field.</h3>
 <img align="right" alt="Coding" width="400" src=“https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif”>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshtrivedi2907&label=Profile%20views&color=0e75b6&style=flat" alt="harshtrivedi2907" /> </p>
 
